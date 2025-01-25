@@ -104,7 +104,7 @@ function set_strings() {
 
 
     CHROOT=chroot/kali-${SYS_ARCH}
-    IMAGE_NAME=/kali-nethunter-rootfs-full-amd64.tar.xz
+    IMAGE_NAME=kali-nethunter-rootfs-full-amd64.tar.xz
     
 }    
 
